@@ -1,0 +1,96 @@
+{
+    "CAND_988": {
+        "id_candidato": "CAND_988",
+        "nombre": "Sofía Ruiz",
+        "anios_experiencia": 8,
+        "skill_score": 10.0,
+        "remoto_preferencia": true,
+        "resumen_cv": "Desarrollador Solutions Architect con 8.7 años de experiencia en ciber seguridad. Stack principal: Python, JavaScript, Python. Destaca por pensamiento crítico.",
+        "score_final": 100.0,
+        "estado_entrevista": "Completada",
+        "historial_mensajes": [
+            {
+                "role": "ai",
+                "content": "Excelente, Sofía. Me alegra tener la oportunidad de conversar contigo. Me gustaría saber más sobre tu experiencia en ciberseguridad. ¿Cuál consideras que es el mayor desafío que enfrenta una empresa en términos de seguridad informática en la actualidad?"
+            },
+            {
+                "role": "human",
+                "content": "No sé"
+            },
+            {
+                "role": "ai",
+                "content": "Entiendo que puede ser un tema amplio. La ciberseguridad es un campo en constante evolución. Me gustaría profundizar un poco más en tus habilidades técnicas. ¿Cómo aplicarías el pensamiento crítico en el desarrollo de una solución de software que requiere una alta seguridad, considerando que tu stack principal incluye Python y JavaScript?"
+            },
+            {
+                "role": "human",
+                "content": "Nunca lo he manejado"
+            },
+            {
+                "role": "ai",
+                "content": "Interesante enfoque. Aunque no hayas trabajado directamente con eso, es importante considerar la seguridad en el desarrollo de software. Esta es la última pregunta: ¿Cómo te mantienes actualizada sobre las últimas tendencias y tecnologías en ciberseguridad y desarrollo de software, considerando que el campo es tan dinámico y en constante evolución?"
+            },
+            {
+                "role": "human",
+                "content": "No sabría decirte"
+            },
+            {
+                "role": "ai",
+                "content": "Entiendo. Bueno, Sofía, ha sido un placer conversar contigo. Agradezco tu honestidad y disposición a participar en esta entrevista. Me gustaría agradecerte por tu tiempo y desearle lo mejor en tus futuras oportunidades. La entrevista ha llegado a su fin. ¡Que tengas un excelente día!"
+            }
+        ],
+        "numero_pregunta": 4,
+        "reporte_generado": "Sofía Ruiz.md"
+    },
+    "CAND_811": {
+        "id_candidato": "CAND_811",
+        "nombre": "Javier Acosta",
+        "anios_experiencia": 8,
+        "skill_score": 8.8,
+        "remoto_preferencia": true,
+        "resumen_cv": "Ingeniero de software con proactividad y 8.6 años en plataformas SaaS. Maneja Python, AWS y metodologías ágiles. Mentor de equipos técnicos.",
+        "score_final": 100.0,
+        "estado_entrevista": "Pendiente",
+        "historial_mensajes": [],
+        "numero_pregunta": 0,
+        "reporte_generado": null
+    },
+    "CAND_630": {
+        "id_candidato": "CAND_630",
+        "nombre": "Valentina García",
+        "anios_experiencia": 5,
+        "skill_score": 8.7,
+        "remoto_preferencia": true,
+        "resumen_cv": "Fullstack developer con creatividad y 5.7 años construyendo soluciones end-to-end con Swift en frontend y FastAPI en backend.",
+        "score_final": 100.0,
+        "estado_entrevista": "Pendiente",
+        "historial_mensajes": [],
+        "numero_pregunta": 0,
+        "reporte_generado": null
+    },
+    "CAND_024": {
+        "id_candidato": "CAND_024",
+        "nombre": "Rocío Fernández",
+        "anios_experiencia": 8,
+        "skill_score": 8.3,
+        "remoto_preferencia": true,
+        "resumen_cv": "Site Reliability Engineer con experiencia en realidad aumentada. Garantiza disponibilidad y rendimiento usando Python, FastAPI y monitoreo avanzado.",
+        "score_final": 100.0,
+        "estado_entrevista": "Pendiente",
+        "historial_mensajes": [],
+        "numero_pregunta": 0,
+        "reporte_generado": null
+    },
+    "CAND_555": {
+        "id_candidato": "CAND_555",
+        "nombre": "Natalia Flores",
+        "anios_experiencia": 6,
+        "skill_score": 8.2,
+        "remoto_preferencia": true,
+        "resumen_cv": "Desarrollador Frontend Developer con 6.4 años de experiencia en e-commerce. Stack principal: PostgreSQL, FastAPI, Python. Destaca por gestión del tiempo.",
+        "score_final": 100.0,
+        "estado_entrevista": "Pendiente",
+        "historial_mensajes": [],
+        "numero_pregunta": 0,
+        "reporte_generado": null
+    }
+}

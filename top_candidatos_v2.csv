@@ -1,0 +1,6 @@
+id_candidato,nombre,anios_experiencia,skill_score,ingles_nivel,remoto_preferencia,resumen_cv,tech_score,soft_score,role_score,ingles_num,es_apto,score_final
+CAND_988,Sofía Ruiz,8.7,10.0,C1,True,"Desarrollador Solutions Architect con 8.7 años de experiencia en ciber seguridad. Stack principal: Python, JavaScript, Python. Destaca por pensamiento crítico.",1,0,0,3.0,1,100.0
+CAND_811,Javier Acosta,8.6,8.8,C1,True,"Ingeniero de software con proactividad y 8.6 años en plataformas SaaS. Maneja Python, AWS y metodologías ágiles. Mentor de equipos técnicos.",1,0,0,3.0,1,100.0
+CAND_630,Valentina García,5.7,8.7,B2,True,Fullstack developer con creatividad y 5.7 años construyendo soluciones end-to-end con Swift en frontend y FastAPI en backend.,1,0,1,2.0,1,100.0
+CAND_024,Rocío Fernández,8.7,8.3,B2,True,"Site Reliability Engineer con experiencia en realidad aumentada. Garantiza disponibilidad y rendimiento usando Python, FastAPI y monitoreo avanzado.",2,0,0,2.0,1,100.0
+CAND_555,Natalia Flores,6.4,8.2,C1,True,"Desarrollador Frontend Developer con 6.4 años de experiencia en e-commerce. Stack principal: PostgreSQL, FastAPI, Python. Destaca por gestión del tiempo.",2,0,0,3.0,1,100.0
