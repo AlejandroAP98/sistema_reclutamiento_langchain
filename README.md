@@ -46,7 +46,7 @@ Esto mostrará un menú interactivo:
 4. **Iniciar entrevista CLI** — entrevista interactiva por terminal.
 5. **Salir**
 
-Flujo recomendado: `1 → 2 → 3`
+Flujo recomendado: `1 → 3` si no existe `candidatos.csv`, o `3` si existe `candidatos.csv`, para interactuar directamente con el portal web.
 
 ### 5. Estructura del proyecto
 
